@@ -5,7 +5,7 @@ body {
 
 label {
   display: block;
-  margin-bottom: .5rem;
+  margin-bottom: 0.5rem;
   margin-top: 1rem;
 }
 
@@ -21,16 +21,16 @@ input {
 }
 
 #controles {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: .875rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.875rem;
   background: #eee;
   padding: 1rem;
   border-radius: 4px;
-  box-shadow: 2px 2px 2px 0 rgba(0,0,0,.1);
+  box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.1);
 }
 
 .css {
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: "IBM Plex Mono", monospace;
   color: #333;
   margin-top: 40px;
   display: flex;
@@ -39,5 +39,5 @@ input {
 
 .css span {
   display: block;
-  margin-bottom: .5rem;
+  margin-bottom: 0.5rem;
 }
